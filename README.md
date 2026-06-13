@@ -118,9 +118,8 @@ Building a real-time chat application using:
 ## 🔗 Connect With Me
 
 - GitHub: https://github.com/ayush-joshi007
-- LeetCode: [Add Your LeetCode Link]
-- LinkedIn: [Add Your LinkedIn Link]
-
+- LeetCode: https://leetcode.com/u/Ayush_Joshi_Ji/
+- LinkedIn: https://www.linkedin.com/in/ayush-joshi-758a0a3a0/
 ---
 
 > Building projects to understand systems, not just to complete tutorials.
